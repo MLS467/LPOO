@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Objetivo2_Heranca_Simples1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/herancaSimples" vcs="Git" />
   </component>
 </project>
