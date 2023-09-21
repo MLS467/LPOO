@@ -5,7 +5,8 @@ public class Desenvolvedor extends Funcionario{
     }
 
     public double getBonus() {
-        double bonusDev = getSalario() + (getSalario() * 0.05);
+       // System.out.println(getSalario());
+        double bonusDev = getSalario() + (getSalario() * 5/100);
         return bonusDev;
     }
 
